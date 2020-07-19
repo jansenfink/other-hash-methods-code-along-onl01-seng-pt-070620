@@ -6,7 +6,6 @@
 #  grains: ["rice", "pasta"]
 # }
 
-groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
 
 def get_the_values(groceries)
   groceries.values 
